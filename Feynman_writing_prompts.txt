@@ -1,0 +1,48 @@
+Variables - Something used to store a value for later use. The value can change and are assigned via the equal sign. Use camel case for naming in Javascript
+
+i.e. 
+var variableName = value
+
+===================================================
+Strings - A data type where characters are enclosed within a quotation mark. Think of strings as words. Use single quotes in Javascript
+
+i.e. 
+'This is a string'
+
+=====================================================
+Functions (arguments, return) - A procedure that allows lines of code to be packaged together that can be reused in programs. They usually take a parameter and can return an expression or value. Parameters are the variables in the function declaration, while an argument is the variable used when the function is called(invoked) in the main program.
+
+i.e. 
+function name (parameter) {
+
+  code that does something
+
+}
+
+
+
+function (argument);  For using the function in the main program
+
+=====================================================
+if statements - A type of conditional statement that executes certain code based on condition(s) being met.
+
+i.e.
+
+if (something a condition is met) {
+   code that does something    
+} else {
+   do this code instead since condition is not met
+}
+
+
+======================================================
+Booleans values (true, false) - A data type where something is either true (1) or false (0). Can be used with conditional statements to determine if conditions are being met and make a decision.
+
+i.e. 
+if (cat = true) {
+
+   code to do something    
+
+}
+
+If cat evaluates to true then the condition is met and code to do something is run. Booleans can also be returned from functions.
